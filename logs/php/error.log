@@ -1,0 +1,22 @@
+[16-Jun-2023 10:27:49 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 958
+[16-Jun-2023 10:27:49 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 960
+[16-Jun-2023 10:27:49 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 967
+[16-Jun-2023 10:27:49 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 968
+[16-Jun-2023 10:27:49 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 971
+[16-Jun-2023 10:28:15 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 958
+[16-Jun-2023 10:28:15 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 960
+[16-Jun-2023 10:28:15 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 967
+[16-Jun-2023 10:28:15 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 968
+[16-Jun-2023 10:28:15 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 971
+[16-Jun-2023 10:29:00 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 958
+[16-Jun-2023 10:29:00 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 960
+[16-Jun-2023 10:29:00 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 967
+[16-Jun-2023 10:29:00 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 968
+[16-Jun-2023 10:29:00 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 971
+[16-Jun-2023 10:30:03 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 958
+[16-Jun-2023 10:30:03 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 960
+[16-Jun-2023 10:30:03 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 967
+[16-Jun-2023 10:30:03 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 968
+[16-Jun-2023 10:30:03 UTC] PHP Warning:  Undefined variable $qsid in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 971
+[16-Jun-2023 11:18:00 UTC] PHP Warning:  filemtime(): stat failed for /Users/user/Local Sites/planty-wp/app/public/wp-content/themes/neve-child/css/theme.css in /Users/user/Local Sites/planty-wp/app/public/wp-content/themes/neve-child/functions.php on line 31
+[16-Jun-2023 11:18:01 UTC] PHP Warning:  filemtime(): stat failed for /Users/user/Local Sites/planty-wp/app/public/wp-content/themes/neve-child/css/theme.css in /Users/user/Local Sites/planty-wp/app/public/wp-content/themes/neve-child/functions.php on line 31
