@@ -14,5 +14,67 @@ Updated: 2023-06-16 10:30:03
 
 
 .nv-post-cover { display : none;}
-.elementor-widget-container { font-size: 16px;}
-p { font-size: 15px; color: black;}
+
+p { font-size: 16px;font-weight: 400; color: black;}
+h2 {font-size: 30px; font-size: 800;}
+h3{font-size: 30px ;font-weight: 700;}
+
+													
+
+.wpcf7-form-control { background-color: white;} 
+
+.form-rond {
+    min-height: 900px;
+    margin: auto;
+}
+#content .form-rond input, #content .form-rond textarea{
+    max-width: 95%;
+    border-radius: 10px;
+}
+
+#content .form-rond input[type="submit"] {
+    display: inherit;
+    margin: auto;
+    background-color: #DC9F96;
+}
+
+
+
+
+
+#formulaire-responsive {
+	max-width:600px /*-- à modifier en fonction de la largeur désirée --*/;
+	margin:
+        width:100%;
+
+}
+
+.btn, .button.button-primary, .is-style-primary .wp-block-button__link, .wp-block-search .wp-block-search__button, button, input[type=button], input[type=reset], input[type=submit]{ background-color: #DC9F96;}
+
+
+.ligne1 { display: flex; flex-direction: row; column-gap: 110px;margin-left: 130px; border-radius: 10px;}
+.ligne2  { display: flex; flex-direction: row; column-gap: 110px; margin-left: 130px; border-radius: 10px;}
+.ligne3  { display: flex; flex-direction: row; column-gap: 110px;margin-left: 130px ;border-radius: 10px;}
+.wpcf7-response-output { display: none}
+
+
+.widget select, .wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper, form input:read-write, form select, form select option, form textarea, form.wp-block-search input.wp-block-search__input{ width: 385px;height: 70px;}
+
+.border-radius { border-radius: 10px;}
+#content .border-radius input, #content .border-radius textarea{
+    max-width: 95%;
+    border-radius: 10px }
+
+
+
+/**---------------- Media query ----------------**/
+@media only screen and (min-width: 48em) { 
+	.demi-colonne {
+		width: 50%;
+	}
+}
+
+
+
+  
+
