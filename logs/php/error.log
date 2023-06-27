@@ -57,3 +57,33 @@
 [21-Jun-2023 13:59:39 UTC] PHP Warning:  Undefined array key "personally_identifiable" in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 457
 [21-Jun-2023 14:22:19 UTC] PHP Warning:  Undefined array key "erase_plugin_data" in /Users/user/Local Sites/planty-wp/app/public/wp-content/plugins/pinterest-for-woocommerce/uninstall.php on line 30
 [21-Jun-2023 14:24:02 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Jun-2023 09:19:42 UTC] PHP Parse error:  syntax error, unexpected identifier "link", expecting ")" in /Users/user/Local Sites/planty-wp/app/public/wp-content/themes/neve-child/functions.php on line 59
+[26-Jun-2023 09:19:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[26-Jun-2023 09:19:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[26-Jun-2023 09:20:17 UTC] PHP Parse error:  syntax error, unexpected string content ");", expecting end of file in /Users/user/Local Sites/planty-wp/app/public/wp-content/themes/neve-child/functions.php on line 59
+[26-Jun-2023 09:21:00 UTC] PHP Parse error:  syntax error, unexpected token "return" in /Users/user/Local Sites/planty-wp/app/public/wp-content/themes/neve-child/functions.php on line 57
+[26-Jun-2023 09:21:30 UTC] PHP Parse error:  syntax error, unexpected string content ");", expecting end of file in /Users/user/Local Sites/planty-wp/app/public/wp-content/themes/neve-child/functions.php on line 59
+[26-Jun-2023 09:21:43 UTC] PHP Parse error:  syntax error, unexpected string content ");", expecting end of file in /Users/user/Local Sites/planty-wp/app/public/wp-content/themes/neve-child/functions.php on line 59
+[26-Jun-2023 17:33:06 UTC] Cron reschedule event error for hook: wpforms_email_summaries_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"wpforms_email_summaries_weekly","args":[],"interval":604800}
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "labels" on bool in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "labels" on bool in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "labels" on bool in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "labels" on bool in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "labels" on bool in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "labels" on bool in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "labels" on bool in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "labels" on bool in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "labels" on bool in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "labels" on bool in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "labels" on bool in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438
+[26-Jun-2023 17:38:30 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /Users/user/Local Sites/planty-wp/app/public/wp-includes/class-wp-customize-nav-menus.php on line 438

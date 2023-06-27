@@ -47,4 +47,24 @@ function add_admin_link( $items, $args ) {
 
 }
 
+
+
+
+function aff_quantite() {
+
+    $moncode='
+    
+    <div class="parent">
+    <div class="div1">1 </div>
+    <div class="div2">2 </div>
+    <div class="div3">3 </div>
+    </div>
+    ';
+
+return $moncode;
+}
+add_shortcode('monbouton', 'aff_quantite');
+
+
+
 ?>
