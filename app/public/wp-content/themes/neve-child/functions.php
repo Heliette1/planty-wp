@@ -63,7 +63,18 @@ function aff_quantite() {
     ';
 
 return $moncode;
-}
+    }
+
+    add_shortcode ('monbouton','aff_quantite');
+    
+   
+    function rightbutton()
+    {
+        $moncode2= '<div class = "bouton2" </div>' ; 
+        return $moncode2 ; 
+    }
+    add_shortcode('bouton2','rightbutton');
+
 
 
 
