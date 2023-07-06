@@ -55,53 +55,65 @@ p{ color: rgb(8, 8, 8);}
 .btn, .button.button-primary, .is-style-primary .wp-block-button__link, .wp-block-search .wp-block-search__button, button, input[type=button], input[type=reset], input[type=submit]{ background-color: #DC9F96;}
 
 
-/* vos informations et votre livraison bloc*/
-
-.widget select, .wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper, form input:read-write, form select, form select option, form textarea, form.wp-block-search input.wp-block-search__input{ width: 385px;height: 70px;}
 
 
+.widget select, .wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper, form input:read-write, form select, form select option, form textarea, form.wp-block-search input.wp-block-search__input{ max-width: 385px; width:100%; height: 70px;}
+
+
+.menu-item-576{ background-color: #DC9F96; height: 80px ; ;}
 
 
 
-.formulaires { display: flex; column-gap: 100px; ;width: 900px; justify-items: center;}
-
-/* fin du formulaire*/
 
 .titre { color: white; font-size: 30px; font-weight: 800;}
 
 
-.header { height: 90px; margin-top : -7px; margin-bottom: -2px;}
+.header { height: 100px; margin-top : -20px; margin-bottom: -2px;}
 .title-with-logo { height: 80px;}
 
-.neve-site-logo { height: 20px;width: 200px;}
+.neve-site-logo { height: 18px;width: 200px;}
 .customize-unpreviewable { margin-top: 22px; align-items: center;}
 
 .attachment-medium size-medium { width: 381px ; height: 250px;}
 li { padding-top: 22px;}
 
-.formulaires p { color: white;}
+.formulaire p { color: white;}
 
 
 
 
+.formulaire div {
+    max-width: 350px;
+	width: 95%;
+}
 
 
+.formulaire{
+	display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    flex-wrap: wrap;
+	max-width: 900px;
+    width: 100%;
+}
+.valider input{
+	margin: auto;
+    display: block;
+}
 
-
-.parent {
-	display: grid;
-	grid-template-columns: repeat(5, 1fr);
-	grid-template-rows: repeat(5, 1fr);
-	grid-column-gap: 0px;
-	grid-row-gap: 0px;
-	
-
-	
-	}
-	
-	.div1 { grid-area: 1 / 1 / 3 / 2; width: 51px; height: 56px; background-color: white; border-radius: 5px 0px 0px 5px; margin-left: 18px; text-align: center;}
-	.div2 { grid-area: 1 / 2 / 2 / 3; width: 31px; height: 28px; background-color: #DC9F96; ; border-radius: 0px 5px 0px 0px; border-color: white;}
-	.div3 { grid-area: 2 / 2 / 3 / 3; width: 31px; height: 28px; background-color: #DC9F96; border-radius: 0px 0px 5px 0px;}
+	.parent {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		grid-template-rows: repeat(2, 1fr);
+		grid-column-gap: 0px;
+		grid-row-gap: 0px;
+		width: 100px;
+		margin: auto;
+		}
+		
+		.div1 { grid-area: 1 / 1 / 3 / 2;  width: 51px; height: 56px; background-color: white; border-radius: 5px 0px 0px 5px; margin-left: 18px; text-align: center;}
+		.div2 { grid-area: 1 / 2 / 2 / 3; width: 31px; height: 28px; background-color: #DC9F96; ; border-radius: 0px 5px 0px 0px; border-color: white;}
+		.div3 { grid-area: 2 / 2 / 3 / 3; width: 31px; height: 28px; background-color: #DC9F96; border-radius: 0px 0px 5px 0px;}
 
 
 	.bouton2{ width: 99px; height: 56px; background-color: #DC9F96; border-radius: 5px;}
@@ -109,30 +121,28 @@ li { padding-top: 22px;}
 	
 
 	
-	
-
-	<div class ="parent">
-    <div class="div1">1</div>
-    <div class="div2">2 </div>
-    <div class="div3">3 </div>
-    </div>
-    						</div>
-				</div>
-
-
 
 
 /*************responsive**************/
 
 
 
-		   @media screen and (max-width: 720px ){
+		   @media screen and (max-width: 950px ){   
 		   
-			.formulaires{ widht: 90%}
+			.formulaire { } }
 		
+			@media screen and (max-width: 760px ){  	
+		   .bouton2 {
+    			margin: 20px auto;
+			}
+			.div1{margin-left: 10px;}
 		}
 		   
-			
+			.div1, .div2, .div3 {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
 
 	
 
@@ -163,7 +173,7 @@ li { padding-top: 22px;}
 		
 
 	
-	   }
+	   
 
 
 
