@@ -70,7 +70,7 @@ return $moncode;
    
     function rightbutton()
     {
-        $moncode2= '<div class = "bouton2" </div>' ; 
+        $moncode2= '<div class = "bouton2"> OK </div>' ; 
         return $moncode2 ; 
     }
     add_shortcode('bouton2','rightbutton');
